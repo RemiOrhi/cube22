@@ -1,0 +1,39 @@
+body {
+    background: grey;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+ul {
+    background: rosybrown;
+    border: 2px solid black;
+    float: left;
+    box-sizing: border-box;
+    width: 20%;
+    padding: 10px;
+    margin: 0;
+    margin-right: 20px;
+    height: 900px;
+}
+
+li {
+    border: 2px solid chocolate;
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+
+.mir {
+    background: peachpuff;
+    border: 2px solid black;
+    display: inline-block;
+    text-align: center;
+    width: 78%;
+    height: 900px;
+    font-size: 24px;
+    box-sizing: border-box;
+}
+
+a {
+    font-size: 24px;
+    color:chocolate;
+}
